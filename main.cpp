@@ -1,10 +1,3 @@
-/*
- * main.cpp
- *
- *  Created on: Nov. 21, 2019
- *      Author: cheng
- */
-
 #include <iostream>
 #include "project3.hpp"
 #include "History_Transaction_definitions.hpp"
